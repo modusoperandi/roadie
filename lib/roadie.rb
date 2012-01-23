@@ -42,7 +42,6 @@ module Roadie
       def config
         Roadie.app.config
       end
-      
   end
 end
 
